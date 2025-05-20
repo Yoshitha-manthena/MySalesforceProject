@@ -1,5 +1,5 @@
 {
-  "orgName": "Demo company",
+  "orgName": "MyScratchOrg",
   "edition": "Developer",
   "features": ["EnableSetPasswordInApi"],
   "settings": {
